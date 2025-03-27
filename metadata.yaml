@@ -1,0 +1,46 @@
+_repo: The-truth-about-the-tobacco-habit_75599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harding, T. Swann (Thomas Swann)
+    alias: Harding, Thomas Swann
+    birthdate: 1890
+    deathdate: 1973
+    gutenberg_agent_id: '58065'
+    url: http://www.gutenberg.org/2009/agents/58065
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Haldeman-Julius, Emanuel
+    - Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: https://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_issued: '2025-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75599'
+language: en
+pgterms:marc904: https://archive.org/details/truthabouttobacc1389hard/mode/2up
+pgterms:marc905: 20250108062501harding
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Carol Brown, Tim Miller and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aGirard :$bHaldeman-Julius Publications, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little blue book ; no. 1389
+subjects:
+- !lcsh 'Tobacco use'
+- !lcsh 'Coffee'
+- !lcsh 'Smoking'
+- !lcc 'RC'
+- GITenberg
+title: The truth about the tobacco habit
+url: http://www.gutenberg.org/ebooks/75599
